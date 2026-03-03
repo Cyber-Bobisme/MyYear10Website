@@ -1,0 +1,3 @@
+git config --global user.name "Cyber-Bobisme"
+
+git config --global user.email "25026@burnside.school.nz"
